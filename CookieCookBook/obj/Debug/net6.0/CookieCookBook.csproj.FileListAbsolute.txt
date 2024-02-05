@@ -1,0 +1,14 @@
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.AssemblyInfoInputs.cache
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.AssemblyInfo.cs
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.csproj.CoreCompileInputs.cache
+C:\Users\pando\source\repos\TodoList\CookieCookBook\bin\Debug\net6.0\CookieCookBook.exe
+C:\Users\pando\source\repos\TodoList\CookieCookBook\bin\Debug\net6.0\CookieCookBook.deps.json
+C:\Users\pando\source\repos\TodoList\CookieCookBook\bin\Debug\net6.0\CookieCookBook.runtimeconfig.json
+C:\Users\pando\source\repos\TodoList\CookieCookBook\bin\Debug\net6.0\CookieCookBook.dll
+C:\Users\pando\source\repos\TodoList\CookieCookBook\bin\Debug\net6.0\CookieCookBook.pdb
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.dll
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\refint\CookieCookBook.dll
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.pdb
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\CookieCookBook.genruntimeconfig.cache
+C:\Users\pando\source\repos\TodoList\CookieCookBook\obj\Debug\net6.0\ref\CookieCookBook.dll
